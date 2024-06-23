@@ -1,0 +1,7 @@
+{
+    "authorization": "",
+    "proxies": {
+        "proxies": false,
+        "ip:port:user:pass": ""
+    }
+}
