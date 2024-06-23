@@ -1,0 +1,1 @@
+after u downloaded these. make a folder with the following name **assets** and then get a Hcaptcha-Solver.crx download Hcaptcha extention as a crx file. then add the Hcaptcha-Solver.crx u downloaded to the assets. and thats it
